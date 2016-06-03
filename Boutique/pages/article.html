@@ -1,0 +1,17 @@
+<div class="col-md-4">
+    <img class="img-responsive" alt="{{ article.nom }}" ng-src="images/{{ article.images }}">
+</div>
+<div class="col-md-8">
+    <h3>{{article.nom}}</h3>
+    <p>{{article.description}}</p>
+    <p><strong>Catégorie : </strong>{{article.categorie}}</p>
+    <p>Seulement {{ article.prix }}</p>
+    <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+        ">
+        <input type="image" src="https://www.paypalobjects.com/fr_FR/BE/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal, le réflexe sécurité pour payer en ligne">
+        <img alt="" border="0" src="https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif" width="1" height="1">
+    </form>
+
+</div>

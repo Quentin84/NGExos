@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "nom": "AdminLTE",
+    "description": "AdminLTE -- is a fully responsive admin template. Based on Bootstrap 3 framework. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops. Check out the live preview now and see for yourself. AdminLTE has been carefully coded with clear comments in all of its JS, LESS and HTML files. LESS has been used to increase code customizability.",
+    "categorie": "Admin",
+    "prix": 10.34,
+    "images": "img_03.png"
+  },
+  {
+    "id": 2,
+    "nom": "Corlate",
+    "description": "Corlate is a free responsive business html template. Are you starting a new company website, new start-up project or may be you're talented person who wants to introduce your work to whole World. Corlate template is for you. You can download it for free, customize it and use it as long you want. Corlate supports built in Font Awesome, css3 animations, also comes with its own bootstrap carousel slider and shortcodes which allows you to easily create Tabs, Accordion slides, Pricing Table or even Gallery. It is fully responsive and looks good on all resolutions and devices. Equipped with the powerful Twitter Boostrap Framework, Corlate is lightweight and super fast.",
+    "categorie": "Commercial",
+    "prix": 15.10,
+    "images": "img_04.png"
+
+  },
+  {
+    "id": 3,
+    "nom": "Xeon",
+    "description": "Xeon is the best onepage site template available completely powered by Twitter Bootstrap 3.0 and prefect for any small business company.",
+    "categorie": "One Page",
+    "prix": 8.45,
+    "images": "img_18.png"  
+  },
+  {
+    "id": 4,
+    "nom": "Cyprass",
+    "description": "ts a responsive business template. Its features is given below: ---- HTML5 and CSS3 Validated --- Based on Twitter Bootstrap 3 --- 2 Home Variations -Responsive Template --- FontAwesome icons --- Portfolio full width & Isotope --- Pricing Tables 3 columns layout --- Prettyphoto integration ---Google Maps integration --- Google Web Fonts (Raleway) --- Details Documentation --- Easy to customize and user friendly",
+    "categorie": "Commercial",
+    "prix": 18.45,
+    "images": "img_28.png" 
+  },
+  {
+    "id": 5,
+    "nom": "Evento",
+    "description": "Evento is a Onepage music event html template powered by twitter bootstrap 3. This free responsive template has event countdown, fullscreen slider, google map, ajax contact form and sticky menu. Smooth page scrolling is one of the key feature of this template. This premium quality free html template is designed by your trusted friend ShapeBootstrap",
+    "categorie": "One Page",
+    "prix": 13.45,
+    "images": "img_26.png"
+  },
+  {
+    "id": 6,
+    "nom": "eShopper",
+    "description": "E-Shopper is the best free ecommerce html template. This 100% responsive html ecommerce template powered by bootstrap 3. 11 Ready pages is the main feature of this template. This template suitable for any static or dynamic websites. Anyone can easily implement this template into their ecommerce system like woocommerce, magento or virtuemart.",
+    "categorie": "Commercial",
+    "prix": 13.45,
+    "images": "img_19.png"
+  },
+  {
+    "id": 7,
+    "nom": "Fornax",
+    "description": "Fornax is a content-focused theme that presents a minimal design with featured images (slideshow). It also offers support for post formats. It highly customizable and easy to use by beginners and developers alike. Ideal for small business and company sites.",
+    "categorie": "Commercial",
+    "prix": 11.45,
+    "images": "img_29.png"
+  },
+  {
+    "id": 8,
+    "nom": "Triangle",
+    "description": "Triangle is responsive HTML template dedicated to all companies, institutions that organize and host meetings or just want to show creative side of their small business. This amazing template design, stunning animations, single and multi-color variations are the main features of this template. And Yes, is suitable for showing any kind of creative offer or services you can imagine. This theme probably will be a natural choice also for a publisher, kindergarten or skill school website.",
+    "categorie": "One Page",
+    "prix": 14.45,
+    "images": "img_09.png"
+  }
+]

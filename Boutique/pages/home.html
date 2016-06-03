@@ -1,0 +1,11 @@
+<div class="row">
+    <select ng-model="catchoisie" ng-options="categorie.categorie for categorie in articles | unique : 'categorie' " class="form-control">
+        <option value="" selected>--- Choisir une catégorie --</option>
+    </select>
+    <div class="col-md-4" ng-repeat="article in filteredArticles">
+       <h3>{{ article.nom }}</h3>
+       <img class = "img-responsive" ng-src="images/{{article.images}}" alt="{{article.nom}}">
+       <p>{{ article.prix }} € belges</p>
+       <a class="btn btn-primary" href="#/article/{{ article.id }}">Voir plus</a>
+    </div>
+</div>
